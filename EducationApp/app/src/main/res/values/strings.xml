@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">educationApp</string>
+    <string name="title_hello">Добро пожаловать!</string>
+    <string name="title_groups">Группы</string>
+    <string name="title_me">Я</string>
+    <string name="exercises">Упражнение</string>
+    <string name="duration">Продолжительность</string>
+    <string name="time">Время</string>
+    <string name="title_add_exercise_record">Добавление записи</string>
+    <string name="ok">Ок</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="back">Назад</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="profile">Профиль</string>
+    <string name="preferences">Настройки</string>
+    <string name="about">О приложении</string>
+
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_health">
+
+    <fragment
+        android:id="@+id/navigation_health"
+        android:label="@string/title_hello"
+        tools:layout="@layout/fragment_hello" />
+
+    <fragment
+        android:id="@+id/navigation_exercise"
+        android:label="@string/title_groups"
+        tools:layout="@layout/fragment_group" />
+
+    <fragment
+        android:id="@+id/navigation_me"
+        android:label="@string/title_me"
+        tools:layout="@layout/fragment_me" />
+</navigation>
